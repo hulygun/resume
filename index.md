@@ -34,13 +34,13 @@
 
 ### Ключевые Навыки
 
-* Python 2,3: (Django, Flask, Bottle, Falcon, Japronto, celery, pony ORM, peewee, elasticsearch-dsl)
+* Python 2,3: (Django, Flask, Bottle, Falcon, Japronto, celery, flower, pony ORM, peewee, elasticsearch-dsl, FastAPI, gRPC, pytest)
 * PHP: (Drupal, Symphony, composer)
 * фронтэнд: (webpack, vuejs, pug, postcss, stylus, svg)
-* Серверное ПО: (linux, elasticsearch, nginx, docker, memcache, nodejs, systemd)
-* Базы данных: (mysql, postgresql, redis, mongoDB)
+* Серверное ПО: (linux, nginx, docker, memcache, nodejs, systemd)
+* Базы данных: (mysql, postgresql, redis, mongoDB, elasticsearch, tarantool)
 * Рабочий процесс: (Jira, Confluence, git flow, CI, newRelic, sentry)
-* ЯП в порядке ознакомления (GoLang, Kotlin)
+* ЯП в порядке ознакомления (GoLang, Kotlin, lua)
 
 ### Знания языков
 
